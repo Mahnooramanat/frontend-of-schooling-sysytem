@@ -1,0 +1,16 @@
+/* Home.css */
+
+.container {
+  max-width: 300px;
+  margin: auto;
+}
+
+h1 {
+  color: #007bff; 
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2em;
+  color: #1278d1; 
+}

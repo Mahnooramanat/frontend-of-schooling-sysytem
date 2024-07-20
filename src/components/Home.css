@@ -1,0 +1,21 @@
+.container {
+    max-width: 900px;
+    font-weight: bold;
+    margin: auto;
+}
+
+h1 {
+    color: black; /* Bootstrap primary color */
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-style: italic;
+   text-decoration: underline;
+   text-align: center;
+}
+
+p {
+    font-size:20px;
+    color: blue; 
+    text-align: center;
+     /* font-weight: bolder; */
+}
